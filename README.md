@@ -6,4 +6,6 @@ Flight info api options
 
 - aviationstack
 - amadeus
-- rapidpricing, free for 1-5 users
+- rapidapi, general purpose api finder
+
+- opensky api, for personal/research purposes, will be used for now
